@@ -1,0 +1,13 @@
+
+WLASL-100 Statistics
+====================
+Classes : 100
+Glosses : book, drink, computer, before, chair, go, clothes, who, candy, cousin ... thursday
+
+Split breakdown:
+  Train : 1442 videos
+  Val   : 338 videos
+  Test  : 258 videos
+  Total : 2038 videos
+
+Saved to: WLASL100.json
