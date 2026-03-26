@@ -33,7 +33,7 @@ asl/
 **Requirements**
 
 ```
-pip install yt-dlp mediapipe opencv-python numpy torch scikit-learn tqdm
+pip install yt-dlp mediapipe==0.10.9 opencv-python numpy torch scikit-learn tqdm
 ```
 
 **Note on yt-dlp:** if `yt-dlp` is not recognized after installing, use:
